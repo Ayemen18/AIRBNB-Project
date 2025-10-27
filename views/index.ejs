@@ -92,6 +92,10 @@
   </div>
   <script>
   function applyFilter(filter) {
+    if(filter === '' || filter === 'trending'){ 
+      window.location.href = '/listings';
+      return;
+    }
     window.location.href = `/listings?filter=${filter}`;
   }
 </script>
