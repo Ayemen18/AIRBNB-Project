@@ -54,22 +54,22 @@ This project demonstrates a full-featured backend and frontend integration using
 ## 📸 Screenshots
 
 ### SignUp Page
-![Homepage Screenshot](./public/images/airbnb-signuppage.png)
+![Homepage Screenshot](./public/airbnb-signuppage.png)
 
 ### Login Page
-![Homepage Screenshot](./public/images/airbnb-loginpage.png)
+![Homepage Screenshot](./public/airbnb-loginpage.png)
 
 ### Homepage
-![Homepage Screenshot](./public/images/airbnb-mountains.png)
+![Homepage Screenshot](./public/airbnb-mountains.png)
 
 ### Listing Details
-![Listing Details Screenshot](./public/images/airbnb-listing.png)
+![Listing Details Screenshot](./public/airbnb-listing.png)
 
 ### Map View
-![Homepage Screenshot](./public/images/airbnb-listingmapview.png)
+![Homepage Screenshot](./public/airbnb-listingmapview.png)
 
 ### Search
-![Listing Details Screenshot](./public/images/airbnb-saerch.png)
+![Listing Details Screenshot](./public/airbnb-saerch.png)
 
 
 ## ⚙️ Installation & Setup
