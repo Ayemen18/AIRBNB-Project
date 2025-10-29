@@ -69,7 +69,7 @@ This project demonstrates a full-featured backend and frontend integration using
 ![Homepage Screenshot](./public/airbnb-listingmapview.png)
 
 ### Search
-![Listing Details Screenshot](./public/airbnb-saerch.png)
+![Listing Details Screenshot](./public/airbnb-search.png)
 
 
 ## ⚙️ Installation & Setup
